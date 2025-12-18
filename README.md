@@ -23,14 +23,14 @@
 ### Задание 2. Memcached
 
 **Статус Memcached:**  
-![Статус Memcached](./screenshots/mencached_status.png)
+![Статус Memcached](./screenshots/memcached_status.png)
 
 ---
 
 ### Задание 3. Удаление по TTL в Memcached
 
 **TTL Memcached:**  
-![TTL Memcached](./screenshots/mencached_ttl.png)
+![TTL Memcached](./screenshots/memcached_ttl.png)
 
 ---
 
