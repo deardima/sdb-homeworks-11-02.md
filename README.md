@@ -25,14 +25,10 @@
 
 
 ## Задание 2. Memcached
-
-![Memcached](/screenshots/memcached_status.png)
+![Статус Memcached](https://raw.githubusercontent.com/deardima/sdb-homeworks-11-02.md/main/screenshots/memcached_status.png)
 
 ## Задание 3. Удаление по TTL в Memcached
-
-![ttl](./screenshots/memcached_ttl.png)
+![TTL Memcached](https://raw.githubusercontent.com/deardima/sdb-homeworks-11-02.md/main/screenshots/memcached_ttl.png)
 
 ## Задание 4. Запись данных в Redis
-
-![redis](./screenshots/redis_work.png)
-
+![Работа с Redis](https://raw.githubusercontent.com/deardima/sdb-homeworks-11-02.md/main/screenshots/redis_work.png)
